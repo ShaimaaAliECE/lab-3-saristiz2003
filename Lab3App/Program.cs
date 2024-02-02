@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace Lab3App
 {
-    internal class Program
+    internal abstract class Program
     {
         static void Main(string[] args)
         {
+
+            
+
+
             // Create a collection board
             CollectionBoard board = new CollectionBoard();
 
